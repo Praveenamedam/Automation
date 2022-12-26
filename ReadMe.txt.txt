@@ -1,4 +1,3 @@
 First Lines to commit in Git
 
-
-Second line for new branch
+Second line to commit in git
